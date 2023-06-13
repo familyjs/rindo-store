@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "@rindo/core": "^2.16.0",
-    "np": "^7.4.0",
+    "np": "^8.0.4",
     "prettier": "^2.2.1",
     "rimraf": "^3.0.2",
     "rollup": "^2.39.0",
